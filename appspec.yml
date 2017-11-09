@@ -1,0 +1,6 @@
+version: 0.0
+os: linux
+files:
+  - source: /target/JavaHelloWorldApp.war
+    destination: /var/lib/tomcat8/webapps/
+  
